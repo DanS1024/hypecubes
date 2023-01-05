@@ -1,2 +1,2 @@
-# hypecubes
+# Hypercubes
 Hypercubes!
